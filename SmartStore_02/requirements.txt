@@ -1,0 +1,8 @@
+# SmartStore项目依赖库
+flask==2.3.3
+opencv-python==4.9.0.80
+pymysql==1.1.1
+torch==2.1.2  # 用于机器学习和文生图
+transformers==4.35.2  # LLM和语音相关
+ SpeechRecognition==3.10.0  # 语音识别
+gTTS==2.4.0  # 文字转语音
